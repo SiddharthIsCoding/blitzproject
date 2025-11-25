@@ -1,1 +1,1 @@
-# blitzproject
+# Reader-mode
